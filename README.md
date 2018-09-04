@@ -1,3 +1,3 @@
 # hello-world
 
-hello world github tutorial lesson 1
+this is my first github tutorial. I hope this is going to work.
